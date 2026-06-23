@@ -13,8 +13,8 @@
 </p>
 
 ---
-
-### 🔭 Currently
+<div align="center">
+    ### 🔭 Currently
 
 - 🎓 Prepping to start the **MSE Scalable Systems** program at **CMU** this fall
 - 🚀 Deep in the **Gemini x X Prize Hackathon**, building **TO BE ANNOUNCED** with co-founder Will
@@ -49,8 +49,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3amBEANS&hide_title=true" height="165"/>
 </p>
 
----
-
-<p align="center">
-  <sub>🎮 Overwatch in my downtime · 🥋 MMA · 🏀 hooping · 📈 learning to actually invest, not just talk about it</sub>
-</p>
+</div>
