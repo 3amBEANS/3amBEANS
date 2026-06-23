@@ -9,29 +9,27 @@
   <a href="https://aidenha.vercel.app/">🌐 Website</a> ·
   <a href="https://www.linkedin.com/in/aidenha">💼 LinkedIn</a> ·
   <a href="mailto:ha.aidenS@gmail.com">📧 Email</a> ·
-  <a href="https://docs.google.com/document/d/1VNZStgR67V0Ifklqqq4VE1uWP9YcfpOvmzOdVsDjfKg/edit?usp=drive_link">📄 Resume</a>
+  <a href="[RESUME_PDF_LINK]">📄 Resume</a>
 </p>
 
----
-<div align="center">
-    ### 🔭 Currently
+<br/>
 
+### 🔭 Currently
 - 🎓 Prepping to start the **MSE Scalable Systems** program at **CMU** this fall
-- 🚀 Deep in the **Gemini x X Prize Hackathon**, building **TO BE ANNOUNCED** with co-founder Will
+- 🚀 Deep in the **Gemini x X Prize Hackathon**, building something with co-founder Will (more soon 👀)
 - 💼 Previously shipped software at **CargoLabs**, **Forge**, **Lumistry**, and **StreamHorseTV**
 - 🧠 Into distributed systems, fintech infra, and anything with a clean API surface
 
 ### ⚡ A few things I've built
-
-- **HotShot Platforms** — Logistics Web Application that connects independent "hotshot" drivers with highly profitable, route-compatible freight contracts.
-- **Spotify Connect** — Spotify Social Platform to interact with and share spotify profiles with friends
-- **NiHowdy** — Gamified Language Learning Tool, integrated with Youtube & Gemini API to deliver better language learning experience.
+- **HotShot Platforms** — logistics web app connecting independent "hotshot" drivers with route-compatible freight contracts
+- **Spotify Connect** — social platform for sharing and interacting with Spotify profiles with friends
+- **NiHowdy** — gamified language-learning tool integrated with YouTube + Gemini API
 
 → Check pinned repos below for the code.
 
 ### 🛠️ Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -44,9 +42,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3amBEANS&show_icons=true&theme=default&hide_title=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3amBEANS&hide_title=true" height="165"/>
 </p>
 
-</div>
+<br/>
+
+<p align="center">
+  <sub>🎮 Valorant · 🥋 MMA · 🏀 hooping · 📈 finally learning to invest</sub>
+</p>
