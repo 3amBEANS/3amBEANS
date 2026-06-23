@@ -14,9 +14,9 @@ Currently in the process of developing some really cool software for the **Gemin
 im also currently into distributed systems, fintech infra, and anything with a clean API surface.
 
 ## projects
-- **HotShot Platforms[https://github.com/heartthrobnever/hotshot-platform]** — logistics web app connecting independent "hotshot" drivers with route-compatible freight contracts
-- **Spotify Social[https://github.com/3amBEANS/SpotifySocial]** — social platform for sharing and interacting with Spotify profiles with friends
-- **NiHowdy[https://github.com/3amBEANS/NiHowdy]** — gamified language-learning tool integrated with YouTube + Gemini API
+- **[HotShot Platforms](https://github.com/heartthrobnever/hotshot-platform)** — logistics web app connecting independent "hotshot" drivers with route-compatible freight contracts
+- **[Spotify Social](https://github.com/3amBEANS/SpotifySocial)** — social platform for sharing and interacting with Spotify profiles with friends
+- **[NiHowdy](https://github.com/3amBEANS/NiHowdy)** — gamified language-learning tool integrated with YouTube + Gemini API
 
 
 ### 🛠️ Stack
