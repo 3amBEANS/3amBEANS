@@ -6,7 +6,6 @@
 </p>
 
 ## who i am
----
 
 i'm a cs major currently incoming at CMU this fall. i have previously shipped software at a variety of different startup companies around the Charlottesville area including CargoLabs, Forge, Lumistry, and StreamhorseTV. Currently in the process of developing some really cool software for the **Geminix X Prize Hackathon** as well with my co-founder Will (more soon 👀).
 
