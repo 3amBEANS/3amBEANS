@@ -9,9 +9,7 @@
 
 i'm a cs major currently incoming at CMU this fall. i have previously shipped software at a variety of different startup companies around the Charlottesville area including CargoLabs, Forge, Lumistry, and StreamhorseTV. 
 
-Currently in the process of developing some really cool software for the **Geminix X Prize Hackathon** as well with my co-founder Will (more soon 👀).
-
-im also currently into distributed systems, fintech infra, and anything with a clean API surface.
+im also currently into distributed systems and anything with a clean API surface.
 
 ## projects
 - **[HotShot Platforms](https://github.com/heartthrobnever/hotshot-platform)** — logistics web app connecting independent "hotshot" drivers with route-compatible freight contracts
